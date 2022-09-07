@@ -1,0 +1,12 @@
+{
+  "name": "gacha-js",
+  "version": "0.1.0",
+  "description": "A small simple library for simulating(?) Gacha games",
+  "main": "index.js",
+  "keywords": [
+    "gacha",
+    "fun"
+  ],
+  "author": "Marviuz",
+  "license": "MIT"
+}
